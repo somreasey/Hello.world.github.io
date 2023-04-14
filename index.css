@@ -1,0 +1,79 @@
+
+
+*{
+    background-color
+}
+
+
+#h1{
+    text-align:center;
+}
+
+
+#p1{
+    color:blue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#p2{
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#p3{
+    /*
+    widht: 150px;
+    or 
+    widht:30%; this is a example.
+    */
+    width:30%;
+    border: 5px outset rgb(148, 180, 147);
+    background-color:aquamarine;
+    
+    padding:20px 20px 20px 20px ;
+}
+
+#div1{
+    width:500px;
+    border: 5px outset blue;
+    text-align:center;
+    
+    
+}
+
+#p4{
+    color:red;
+    
+}
+#p6{
+    border:5px outset royalblue;
+    width:60%;
+    padding: 5px 5px 5px 20px;
+    color:rgb(0, 128, 0);
+
+}
+#p7{
+    border:5px outset royalblue;
+    width:60%;
+    padding: 5px 5px 5px 20px;
+    color:rgb(0, 128, 0);
+
+}
+
+#p8{
+    border:5px outset royalblue;
+    width:60%;
+    padding: 5px 5px 5px 20px;
+    color:rgb(0, 128, 0);
+
+}
+
+#p9{
+    border:5px outset royalblue;
+    height:auto;
+    width:60%;
+    padding: 5px 5px 5px 20px;
+    color:rgb(0, 128, 0);
+
+}
